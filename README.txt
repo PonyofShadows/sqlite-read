@@ -1,5 +1,5 @@
-This is a study of the sqlite(see https://www.sqlite.org) 3.42.0 source code.
-The sqlite project itself does not specify a license(see https://www.sqlite.org/copyright.html).
+This is a study of the sqlite 3.42.0 source code.(see https://www.sqlite.org)
+The sqlite project itself does not specify a license.(see https://www.sqlite.org/copyright.html)
 My annotations are not guaranteed to be accurate, they are for learning and communication purposes only.
 =======================
 
